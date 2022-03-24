@@ -1,4 +1,4 @@
 # * linguist-detectable
 # .replit linguist-language=TOML
 
-./langs/* linguist-detectable
+/langs/* linguist-detectable
