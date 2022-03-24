@@ -1,4 +1,2 @@
 # * linguist-detectable
 # .replit linguist-language=TOML
-
-*.ini linguist-detectable
