@@ -1,8 +1,8 @@
 [InternetShortcut]
-URL=http://www.someaddress.com/
-WorkingDirectory=C:\WINDOWS\
+URL=http://example.com/
+WorkingDirectory=C:\Windows\
 ShowCommand=7
 IconIndex=1
-IconFile=C:\WINDOWS\SYSTEM\url.dll
+IconFile=C:\Windows\System32\url.dll
 Modified=20F06BA06D07BD014D
 HotKey=1601
